@@ -1,2 +1,2 @@
 # portfolio
-Portfolio exercice HTML, CSS and JavaScript practice basic knowladge
+Portfolio exercise HTML, CSS and JavaScript practice basic knowladge
